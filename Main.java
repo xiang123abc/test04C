@@ -9,6 +9,8 @@ public class Main {
 
     }
     String test(){
+        String password = "12345678";
+        
 
         return "";
     }
